@@ -1,0 +1,3 @@
+/workspace/softgym/language_deformable2/PyFlex/bindings/build/CMakeFiles/pyflex.dir
+/workspace/softgym/language_deformable2/PyFlex/bindings/build/CMakeFiles/edit_cache.dir
+/workspace/softgym/language_deformable2/PyFlex/bindings/build/CMakeFiles/rebuild_cache.dir
